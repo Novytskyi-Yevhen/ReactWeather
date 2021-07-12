@@ -3,6 +3,6 @@ It's a React Application that requests weather data in the open API and displays
 # Screenshot of work application
 <img src="/resources/img1.png">
 The first screenshot shows the main screen of the application.
-
+<div><div/>
 <img src="/resources/img2.png">
 In the second screenshot, the weather is displayed by the entered city name
