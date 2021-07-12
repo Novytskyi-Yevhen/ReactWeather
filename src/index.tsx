@@ -1,5 +1,4 @@
 import ReactDOM from "react-dom";
-import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Weather from "./Components/Weather";
 import { Provider } from "react-redux";
