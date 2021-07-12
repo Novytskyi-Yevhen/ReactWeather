@@ -1,11 +1,8 @@
-import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-// import App from './App';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Weather from "./Components/Weather";
-import { InputGroup, FormControl, Button, Form } from "react-bootstrap";
-import { Provider, useSelector } from "react-redux";
+import { Provider } from "react-redux";
 import InputWeather from "./Components/Input";
 import { applyMiddleware, createStore } from "@reduxjs/toolkit";
 import { composeWithDevTools } from "redux-devtools-extension";
